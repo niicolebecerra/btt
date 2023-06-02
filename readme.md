@@ -25,15 +25,15 @@
 [Break Through Tech Github](https://github.com/lcbjrrr/btt/)
 
 ### How to see dataset descriptions:
-1. Click on the *History* option on the upper right corner
+1. Click on the #History# option on the upper right corner
 
 ![](https://pbs.twimg.com/media/FxlgeHGXoAAuaPS?format=png&name=360x360)
 
-2. Click on the *Add files via upload* link on the left side.
+2. Click on the #Add files via upload# link on the left side.
 
 ![](https://pbs.twimg.com/media/FxlgeHEWcAA0SZ0?format=png&name=small)
 
-3. *That's it!*
+3. #That's it!#
 
 ![](https://pbs.twimg.com/media/FxlgeHEXgAErSCy?format=png&name=large)
 
