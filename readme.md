@@ -1,13 +1,18 @@
 # Sample Datasets (direct link)
-
-
-
-
-
-
+[carprice - ok.csv](https://github.com/lcbjrrr/btt/blob/main/carprice%20-%20ok.csv)
+[ds_salaries.csv]()
+[happiness.csv]()
+[insurance.csv]()
+[Methane.csv]()
+[netflix - ok.csv]()
+[ny_airbnb.csv]()
+[penguins.csv]()
+[StudentsPerformance.csv]()
+[titanic - ok.csv]()
+[unicorns - clean.csv]()
 
 ## Access to column level explanation for each Dataset:
-[BTT Github](github.com/lcbjrrr/btt/)
+[Break Through Tech Github](github.com/lcbjrrr/btt/)
 
 ### How to see dataset descriptions:
 1. Click on the *History* option on the upper right corner
