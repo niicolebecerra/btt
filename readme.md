@@ -22,7 +22,7 @@
 [unicorns - clean.csv](https://github.com/lcbjrrr/btt/blob/main/unicorns%20-%20clean.csv)
 
 ## Access to column level explanation for each Dataset:
-[Break Through Tech Github](github.com/lcbjrrr/btt/)
+[Break Through Tech Github](https://github.com/lcbjrrr/btt/)
 
 ### How to see dataset descriptions:
 1. Click on the *History* option on the upper right corner
