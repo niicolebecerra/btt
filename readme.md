@@ -49,7 +49,7 @@
 
 [Unadjusted gender gap in average hourly wages](https://ourworldindata.org/grapher/gender-gap-in-average-wages-ilo) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/gender-gap-in-average-wages-ilo.csv)
 
-[Number of deaths by risk factor, World](https://ourworldindata.org/obesity#obesity-is-responsible-for-4-7-million-premature-deaths-each-year) - [CSV]()
+[Number of deaths by risk factor, World](https://ourworldindata.org/obesity#obesity-is-responsible-for-4-7-million-premature-deaths-each-year) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-deaths-by-risk-factor.csv)
 
 [Number of homeless people by shelter status, United States](https://ourworldindata.org/grapher/number-of-homeless-people-by-shelter-status) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-homeless-people-by-shelter-status.csv)
 
@@ -61,4 +61,4 @@
 
 [Share of the population with access to safely managed drinking water](https://ourworldindata.org/grapher/share-without-improved-water) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/water-and-sanitation.csv)
 
-[LGBT+ Rights](https://ourworldindata.org/lgbt-rights) - [CSV]()
+[LGBT+ Rights](https://ourworldindata.org/lgbt-rights) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/lgbt-rights-index.csv)
