@@ -1,25 +1,23 @@
-# Sample Datasets (direct link)
-[carprice - ok.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/carprice%20-%20ok.csv)
 
-[ds_salaries.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/ds_salaries.csv)
+# Dataset showed on the presentations (Our World in Data)
 
-[happiness.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/happiness.csv)
+[Female-to-male ratio of time devoted to unpaid care work](https://ourworldindata.org/grapher/female-to-male-ratio-of-time-devoted-to-unpaid-care-work) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/female-to-male-ratio-of-time-devoted-to-unpaid-care-work%20-%20ok.csv)
 
-[insurance.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/insurance.csv)
+[Unadjusted gender gap in average hourly wages](https://ourworldindata.org/grapher/gender-gap-in-average-wages-ilo) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/gender-gap-in-average-wages-ilo.csv)
 
-[Methane.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/Methane.csv)
+[Number of deaths by risk factor, World](https://ourworldindata.org/obesity#obesity-is-responsible-for-4-7-million-premature-deaths-each-year) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-deaths-by-risk-factor.csv)
 
-[netflix - ok.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/netflix%20-%20ok.csv)
+[Number of homeless people by shelter status, United States](https://ourworldindata.org/grapher/number-of-homeless-people-by-shelter-status) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-homeless-people-by-shelter-status.csv)
 
-[ny_airbnb.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/ny_airbnb.csv)
+[Share of global plastic waste emitted to the ocean](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/plastic-pollution%20-%20ok.csv)
 
-[penguins.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/penguins.csv)
+[Number of people using the Internet](https://ourworldindata.org/grapher/number-of-internet-users) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-internet-users%20-%202020.csv)
 
-[StudentsPerformance.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/StudentsPerformance.csv)
+[CO₂ emissions per capita vs GDP per capita](https://ourworldindata.org/grapher/co2-emissions-vs-gdp) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/co2-emissions-vs-gdp%20-%202018.csv)
 
-[titanic - ok.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/titanic%20-%20ok.csv)
+[Share of the population with access to safely managed drinking water](https://ourworldindata.org/grapher/share-without-improved-water) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/water-and-sanitation.csv)
 
-[unicorns - clean.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/unicorns%20-%20clean.csv)
+[LGBT+ Rights](https://ourworldindata.org/lgbt-rights) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/lgbt-rights-index.csv)
 
 ## Access to column level explanation for each Dataset:
 [Break Through Tech Github](https://github.com/lcbjrrr/btt/)
@@ -43,22 +41,26 @@
 
 ![](https://pbs.twimg.com/media/FxlgeHDX0AEjT1O?format=png&name=900x900)
 
-# Dataset shown on the presentations (Our World in Data)
 
-[Female-to-male ratio of time devoted to unpaid care work](https://ourworldindata.org/grapher/female-to-male-ratio-of-time-devoted-to-unpaid-care-work) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/female-to-male-ratio-of-time-devoted-to-unpaid-care-work%20-%20ok.csv)
+# Sample Datasets (direct link)
+[carprice - ok.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/carprice%20-%20ok.csv)
 
-[Unadjusted gender gap in average hourly wages](https://ourworldindata.org/grapher/gender-gap-in-average-wages-ilo) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/gender-gap-in-average-wages-ilo.csv)
+[ds_salaries.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/ds_salaries.csv)
 
-[Number of deaths by risk factor, World](https://ourworldindata.org/obesity#obesity-is-responsible-for-4-7-million-premature-deaths-each-year) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-deaths-by-risk-factor.csv)
+[happiness.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/happiness.csv)
 
-[Number of homeless people by shelter status, United States](https://ourworldindata.org/grapher/number-of-homeless-people-by-shelter-status) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-homeless-people-by-shelter-status.csv)
+[insurance.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/insurance.csv)
 
-[Share of global plastic waste emitted to the ocean](https://ourworldindata.org/grapher/share-of-global-plastic-waste-emitted-to-the-ocean) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/plastic-pollution%20-%20ok.csv)
+[Methane.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/Methane.csv)
 
-[Number of people using the Internet](https://ourworldindata.org/grapher/number-of-internet-users) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/number-of-internet-users%20-%202020.csv)
+[netflix - ok.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/netflix%20-%20ok.csv)
 
-[CO₂ emissions per capita vs GDP per capita](https://ourworldindata.org/grapher/co2-emissions-vs-gdp) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/co2-emissions-vs-gdp%20-%202018.csv)
+[ny_airbnb.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/ny_airbnb.csv)
 
-[Share of the population with access to safely managed drinking water](https://ourworldindata.org/grapher/share-without-improved-water) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/water-and-sanitation.csv)
+[penguins.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/penguins.csv)
 
-[LGBT+ Rights](https://ourworldindata.org/lgbt-rights) - [CSV](https://raw.githubusercontent.com/lcbjrrr/btt/main/lgbt-rights-index.csv)
+[StudentsPerformance.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/StudentsPerformance.csv)
+
+[titanic - ok.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/titanic%20-%20ok.csv)
+
+[unicorns - clean.csv](https://raw.githubusercontent.com/lcbjrrr/btt/main/unicorns%20-%20clean.csv)
